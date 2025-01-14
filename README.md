@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard Analysis Report
 
-![coffee_sales_Dashboard](./)
+![coffee_sales_Dashboard](./Coffee_Sales_DashBoard.png)
 
 ## Executive Summary:
 This report provides insights derived from the Coffee Sales Dashboard, covering sales performance trends, geographical analysis, customer segmentation, and product preferences. The analysis highlights key growth opportunities and areas for strategic improvement in the coffee sales business.
